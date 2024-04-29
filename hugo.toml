@@ -5,7 +5,7 @@ theme = "anatole"
 
 
 [params]
-  title = "hello kitty"
-  author = "zhengxin"
-  description = "zhengxinqinaxing"
-  profilePicture = "images/profile.jpg"
+title = "hello kitty"
+author = "zhengxin"
+description = "zhengxinqinaxing"
+profilePicture = "images/profile.jpg"
